@@ -1,4 +1,4 @@
-# SQL
+# Genome Data Science
 
 ## Content
 
@@ -15,6 +15,9 @@
 * [Folder Structure](#folder-structure)
 
 ## Description
+
+This course provides a comprehensive introduction to the principles and practices of statistical genetics and genomic epidemiology. Through a structured combination of lectures and hands-on coding sessions, students will explore key concepts in molecular genetics, population structure, and association testing. Topics include Mendelian and complex trait inheritance, Hardy-Weinberg equilibrium, heritability estimation, GWAS, and advanced methods for addressing population stratification and multiple testing. Emphasis will be placed on modern computational tools (e.g., PLINK, Megma, Regenie) and real-world data applications to prepare students for research in genetic epidemiology and precision medicine.
+
 
 SQL is used across the machine learning pipeline, and is a fundamental skill for data scientists to master. This module will focus on the technical skills needed for working with SQL, including flat-file datasets (JSON, CSV) ingestion, query design, and relational database management. Additionally, participants will examine common data management concerns, data access management, and data privacy adherence.
 
