@@ -1,4 +1,4 @@
-# Genome Data Science
+# Statistical Genetics and Genetic Epidemiology
 
 ## Content
 
@@ -16,20 +16,18 @@
 
 ## Description
 
-This course provides a comprehensive introduction to the principles and practices of statistical genetics and genomic epidemiology. Through a structured combination of lectures and hands-on coding sessions, students will explore key concepts in molecular genetics, population structure, and association testing. Topics include Mendelian and complex trait inheritance, Hardy-Weinberg equilibrium, heritability estimation, GWAS, and advanced methods for addressing population stratification and multiple testing. Emphasis will be placed on modern computational tools (e.g., PLINK, Megma, Regenie) and real-world data applications to prepare students for research in genetic epidemiology and precision medicine.
-
-
-SQL is used across the machine learning pipeline, and is a fundamental skill for data scientists to master. This module will focus on the technical skills needed for working with SQL, including flat-file datasets (JSON, CSV) ingestion, query design, and relational database management. Additionally, participants will examine common data management concerns, data access management, and data privacy adherence.
-
-Participants are introduced to data modelling and how to think about the structure of databases. The majority of the module is devoted to learning the necessary commands and their syntax to properly extract information from a database. Participants will learn how to problem-solve through live coding. 
+This course offers a comprehensive introduction to the principles and practices of statistical genetics and genetic epidemiology. Through a structured blend of lectures and hands-on coding sessions, students will engage with key concepts in molecular genetics, genetic epidemiology, population genetics, and association testing. Core topics include the fundamentals of molecular genetics and genetic models, Mendelian versus complex trait inheritance, Hardy-Weinberg equilibrium, heritability estimation, quality control, genotype imputation, genome-wide association studies (GWAS), and meta-analysis. The course places strong emphasis on the use of modern computational tools such as PLINK, MEGMA and GRAF-pop, and real-world data applications to equip students with the skills necessary for research in statistical genetics and genetic epidemiology.
 
 ## Learning Outcomes
 By the end of the module, participants will be able to:
 
 **Week 1:**
-* Describe the structure of a database.
-* Use an export command to save and transport data in CSV and JSON file formats.
-* Use SQL querying and data manipulation techniques to formulate queries for a range of purposes.
+
+*Understand basic molecular genetics concepts and common genetic models.
+
+* Distinguish between Mendelian and complex trait inheritance.
+
+* Understand the principles of population genetics, including allele frequencies, genetic drift, and Hardy-Weinberg equilibrium.
 
 **Week 2:**
 
