@@ -23,7 +23,7 @@ By the end of the module, participants will be able to:
 
 **Week 1:**
 
-*Understand basic molecular genetics concepts and common genetic models.
+* Understand basic molecular genetics concepts and common genetic models.
 
 * Distinguish between Mendelian and complex trait inheritance.
 
