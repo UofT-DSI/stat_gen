@@ -16,7 +16,7 @@
 
 ## Description
 
-This course offers a comprehensive introduction to the principles and practices of statistical genetics and genetic epidemiology. Through a structured blend of lectures and hands-on coding sessions, students will engage with key concepts in molecular genetics, genetic epidemiology, population genetics, and association testing. Core topics include the fundamentals of molecular genetics and genetic models, Mendelian versus complex trait inheritance, Hardy-Weinberg equilibrium, heritability estimation, quality control, genotype imputation, genome-wide association studies (GWAS), and meta-analysis. The course places strong emphasis on the use of modern computational tools such as PLINK, MEGMA and GRAF-pop, and real-world data applications to equip students with the skills necessary for research in statistical genetics and genetic epidemiology.
+This course provides students with the knowledge foundations necessary to conduct statistical analysis of genetic association study data. It features a series of lectures and hands-on coding sessions covering key topics, including fundamental concepts in population genetics, population structure in genetic association studies, quality control in genetic data, analysis of population-based case-control association studies. The course places strong emphasis on the use of modern computational tools such as PLINK, MEGMA and GRAF-pop, and real-world data applications to preparing students for both academic and applied careers in statistical genetics and genetic epidemiology.
 
 ## Learning Outcomes
 By the end of the module, participants will be able to:
