@@ -70,22 +70,15 @@ Each session will consist of slides to introduce topics, live coding to demonstr
 
 ## Schedule 
 
-Before First Live Learning Session: Install & Pre-Session [Setup](./05_src/sql/sqlite_setup/sqlite_setup.md)
-
-||Day 1|Day 2|Day 3|Day 4|Day 5|
-|---|---|---|---|---|---|
-|Week 1|Live Learning Session 1 Introduction: Data Modelling, Schema Design, Data Structures |Live Learning Session 2 Building Queries: SELECT, FROM, WHERE, CASE, DISTINCT, JOINs|Live Learning Session 3 Essential Techniques: Aggregation Functions, Subqueries, Temporary Tables, CTEs, Datetime Functions |No Work Period|Work Period 2|
-
-||Day 1|Day 2|Day 3|Day 4|Day 5|
-|---|---|---|---|---|---|
-|Week 2|Live Learning Session 4 Advanced Techniques: NULL Management, Windowed Functions, String Manipulation, UNION & UNION ALL, INTERSECT & EXCEPT  |Live Learning Session 5 Expanding your Database: INSERT, UPDATE, DELETE, Importing & Exporting Data, CROSS & Self Joins, Views   |Live Learning Session 6 Beyond SQL: Ethics and Case Study |Work Period 1|Work Period 2|
+* Week 1 will focus on review of molecular genetics and basic genetic models
+* Week 2 will focus on population genetics
+* Week 3 will focus on association testing
 
 ## Requirements
-
-* Participants are not expected to have any coding experience; the learning content has been designed for beginners.
-* Participants are encouraged to ask questions, and collaborate with others to enhance their learning experience.
+* Participants are expected to have completed Shell, git nd R learning modules.
+* Participants are encouraged to ask questions and collaborate with others to enhance learning.
 * Participants must have a computer and an internet connection to participate in online activities.
-* Participants must not use generative AI such as ChatGPT to generate code in order to complete assignments. It should be used as a supportive tool to seek out answers to questions you may have.
+* Participants must not use generative AI such as ChatGPT to generate code to complete assignments. It should be used as a supportive tool to seek out answers to questions you may have.
 * We expect Participants to have completed the instructions mentioned in the [onboarding repo](https://github.com/UofT-DSI/onboarding/).
 * We encourage participants to default to having their camera on at all times, and turning the camera off only as needed. This will greatly enhance the learning experience for all participants and provides real-time feedback for the instructional team. 
 
