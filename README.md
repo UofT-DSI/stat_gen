@@ -16,7 +16,7 @@
 
 ## Description
 
-This course provides students with the knowledge foundations necessary to conduct statistical analysis of genetic association study data. It features a series of lectures and hands-on coding sessions covering key topics, including fundamental concepts in population genetics, population structure in genetic association studies, quality control in genetic data, analysis of population-based case-control association studies. The course places strong emphasis on the use of modern computational tools such as PLINK, MEGMA and GRAF-pop, and real-world data applications to preparing students for both academic and applied careers in statistical genetics and genetic epidemiology.
+This course provides students with the knowledge foundations necessary to conduct statistical analysis of genetic association study data. It features a series of lectures and hands-on coding sessions covering key topics, including fundamental concepts in population genetics, population structure in genetic association studies, quality control in genetic data and genome-wide association studies. The course places strong emphasis on the use of modern computational tools such as PLINK, MEGMA and GRAF-pop, and real-world data applications to preparing students for both academic and applied careers in statistical genetics and genetic epidemiology.
 
 ## Learning Outcomes
 By the end of the module, participants will be able to:
@@ -24,16 +24,12 @@ By the end of the module, participants will be able to:
 **Week 1:**
 
 * Understand basic molecular genetics concepts and common genetic models.
-
 * Distinguish between Mendelian and complex trait inheritance.
-
 * Understand the principles of population genetics, including allele frequencies, genetic drift, and Hardy-Weinberg equilibrium.
 
 **Week 2:**
-
-* Examine the legal framework around sharing data.
-* Analyze data requirements and work with diverse stakeholders such as analysts and managers.
-* Use advanced techniques such as String Manipulation, and NULL Management to manipulate results.
+* Understand key designs and statistical models used in genetic association studies, including case-control and regression-based approaches.
+* Learn how to implement genome-wide association studies (GWAS), including key quality control steps and software tools.
 
 ## Assignments
 
@@ -48,18 +44,20 @@ There are two assignments.
 
 **Questions can be submitted to the #questions channel on Slack**
 
-* Technical Facilitator:   
+* Technical Facilitator:
+<!--
   * **Thomas Rosenthal** (he/him)  
     [thomas.rosenthal@utoronto.ca](mailto:thomas.rosenthal@utoronto.ca)
-
-* Learning Support Staff: 
+-->
+* Learning Support Staff:
+<!--
   * **James Li** (he/him)  
   [james.zefang.li@gmail.com](mailto:james.zefang.li@gmail.com)
   * **Laura MacKew** (she/her)  
   [lauramackew@gmail.com](mailto:lauramackew@gmail.com)
   * **Niyaz Nazari** (she/her)  
   [niyaz.mnazari@gmail.com](mailto:niyaz.mnazari@gmail.com)
-
+-->
 
 
 ## Delivery of the Learning Module
@@ -68,11 +66,7 @@ This module will include live learning sessions and optional, asynchronous work 
  
 Participants are encouraged to engage actively during the learning module. They key to developing the core skills in each learning module is through practice. The more participants engage in coding along with the instructional team, and applying the skills in each module, the more likely it is that these skills will solidify. 
 
-This module will use a dedicated _Etherboard_ for student collaboration. The link will be provided in the first class. New content will be added by the Technical Facilitator before each session. Each session will consist of slides to introduce topics, live coding to demonstrate the topics, and occasional breakout rooms/live polls to reinforce the topics.  
-
-The technical facilitator will introduce the concepts through a collaborative live coding session using SQLite. The technical facilitator will upload any live coding files to this repository for participants to revisit under `./04_this_cohort/live_code`.
-
-Participants should follow along with the coding, interact with the study material [SQL for Data Scientists by Renee Teate](https://sqlfordatascientists.com/), and think about the broader data landscape. Participants are encouraged to ask questions throughout. 
+Each session will consist of slides to introduce topics, live coding to demonstrate the topics, and occasional breakout rooms/live polls to reinforce the topics. The technical facilitator will introduce the concepts through a collaborative live coding session using R and other specialized genetic sofwares. The technical facilitator will upload any live coding files to this repository for participants to revisit under `./04_this_cohort/live_code`. 
 
 ## Schedule 
 
@@ -99,12 +93,16 @@ Before First Live Learning Session: Install & Pre-Session [Setup](./05_src/sql/s
 Feel free to use the following as resources:
 
 ### Documents
+<!--
 - [Cheatsheet](https://www.sqlitetutorial.net/sqlite-cheat-sheet/)
 - [W3Schools Tutorial](https://www.w3schools.blog/sqlite-tutorial)
+-->
 
 ### Videos
+<!--
 - [What is SQLite?](https://www.youtube.com/watch?v=p2tOmltUh34)
 - [SQLite Playlist](https://www.youtube.com/playlist?list=PLWENznQwkAoxww-cDEfIJ-uuPDfFwbeiJ)
+-->
 
 ## Folder Structure
 
