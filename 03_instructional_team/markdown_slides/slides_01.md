@@ -18,7 +18,12 @@ $ echo "Data Sciences Institute"
 
 ## What is Statistical Genetics?
 
-![bg right:40% w:350](./images/statsgene1.png)
+![bg right:35% w:350](./images/statsgene1.png)
+
+<p align="center" style="font-size:14px;">
+  <strong>Big Data:</strong> <em>n &gt; 10<sup>3</sup>, p &gt; 10<sup>6</sup></em> (high-level processed data in GB and ‘raw data’ in TB) and<br>
+  <strong>Complex:</strong> (e.g. multiple causal factors, interactions, pathway/network…)
+</p>
 
 ---
 
@@ -28,33 +33,21 @@ $ echo "Data Sciences Institute"
 
 # Course Content
 
-- Data Modelling, Data Structures, Schemas, Basic Data Management, Normal Forms
-- Basic SQL Syntax
-- Essential SQL Syntax
-- Advanced Techniques
-- Importing and Exporting Data to and from SQL
-- SQL's relationship to the Machine Learning Pipeline
-- Data Stewardship, Ethics, and SQL in the Wild
-
----
-
-# Course Tools
-
-- [DB Browser for SQLite](https://sqlitebrowser.org/dl/): *Where we will write code*
-- [GitHub](https://github.com/UofT-DSI/sql): *Module Overview*
-- [Etherpad](https://pad.riseup.net/p/SQL_DSI_April2025): *Where we will keep track of session progress*
-  - **Visit and complete the sign in prompt at the start every session**
-- [SQLite documentation](https://www.sqlite.org/index.html): *For SQL specific questions*
-- [DrawIO](https://www.drawio.com/) or [Lucid](https://www.lucidchart.com/pages/): *For Assignments*
-- [Code Share](https://codeshare.io/): *To share code during our live coding sessions*
-  - This is for convenience only during live coding sessions, use the repo after the session instead
-- Mentimeter (links vary): *Small in-class quizzes, easiest to participate on your phone if available, ungraded*
-
+- Background in molecular genetics and basic genetic models
+- Population genetics & consequences on genetic association studies
+- Heritability estimation
+- Basics of disease gene mapping: association tests
+- Genome-wide association studies (GWAS) 
+  - quality control
+  - genotype imputation
+  - multiple testing
+  - meta-analyses 
+  - population substructure   
 ---
 
 # GitHub Repo
 
-[https://github.com/UofT-DSI/sql](https://github.com/UofT-DSI/sql)
+[https://github.com/UofT-DSI/sql](https://github.com/UofT-DSI/stat_gen)
 
 - Schedule
 - These slides (HTML & PDF)
@@ -71,19 +64,16 @@ $ echo "Data Sciences Institute"
 
 # Course Content
 
-- This course is an _Introduction_ to SQL
+- This course is an _Introduction_ to Statistical Genetics
 - At the end of the course, I hope you will:
-  - Feel comfortable with SQL
-  - Know how to search for the right thing on Stack Overflow
-  - Read documentation
+  - Understand and apply core genetic principles
+  - Conduct and interpret population genetic analyses
+  - Perform genome-wide association studies (GWAS)
 
 - We won't cover advanced topics like:
-  - Stored Procedures, Triggers, Jobs
-  - DBA work (monitoring, server setup, etc)
-  - Complex ETL or tooling
-
-
-![bg right:35% w:400](images/01_sql.png)
+  - Polygenic risk score
+  - Integration of multi-omics data
+  - Whole-genome sequencing studies
 
 ---
 
@@ -98,9 +88,6 @@ $ echo "Data Sciences Institute"
 - Review questions/answers in Office Hours course support
 - Database design sections are more time consuming
   - Especially Assignment 2. **Do not put this off too much.**
-- SQL sections are designed to be relatively easy (with a couple of hard questions)
-  - Reaffirms what we wrote together
-  - Doing work on your own helps reinforce the learning
 - ChatGPT probably won't help you much
 
 ---
