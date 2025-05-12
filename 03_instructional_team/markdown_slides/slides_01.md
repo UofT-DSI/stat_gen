@@ -4,7 +4,7 @@ theme: xaringan-themer
 _class: invert
 paginate: true
 ---
-# Introduction to Data Access and Storage
+# Introduction to Statistical Genetics
 
 ```
 $ echo "Data Sciences Institute"
@@ -16,64 +16,9 @@ $ echo "Data Sciences Institute"
 
 ## $\rightarrow$ **Welcome**
 
-## What is SQL?
+## What is Statistical Genetics?
 
-## Data Modelling
-
----
-
-# Welcome / About Us
-
----
-
-# About Us (Thomas)
-
-- Started with SQL in first job after graduating
-- Data Analyst in US healthcare until moving to Canada in 2018
-- Transitioned to Data Engineer at Plan Canada
-- Pursued Master of Information at UofT for R and Python focus
-- Currently working on AI Governance and Ethics at Dataiku
-- **_Have a 3 year old Samoyed named Alto who takes up a lot of my free time 👉_**
-
-![bg right:40% w:350](./images/01_happy_alto.png)
-
----
-
-# About Us (James)
-
-- UofT Engineering undergrad and master 🦫
-- Licensed engineer in an oil & gas company sending robots into pipelines 🤘
-- DSI cohort 3
-- Self-taught woodworking hobbyist 🪚
-- Real hobbies: motorcycle 🛵, leisure skating ⛸️, camping ⛺️
-
-![bg right:35% w:350](./images/01_james.png)
-
----
-
-# About Us (Laura)
-
-- Over four years of experience in Full Stack Development creating database models and schemas as well as optimizing high-volume data workflows
-- Worked as a Teaching Assistant at York University in Statistics breaking down complex concepts and providing one-on-one support for technical challenges
-- Honours BSc in Psychology and survived a Web Development Bootcamp
-- DSI cohort 5
-- 7 years as a Research Analyst at the Centre for Addiction and Mental Health coordinating research studies, analyzing large datasets as well as created visualizations for clinical research (and co-authored a paper or 3)
-- Cat lover, research nerd and hairstyle chameleon 
-
-![bg right:35% w:350](./images/01_laura.png)
-
----
-
-# About Us (Niyaz)
-
-- Master's in Artificial Intelligence with a deep understanding of machine learning algorithms, data science, and advanced computational techniques
-- 15 years of experience in software development, database design, and query optimization
-- DSI cohort 2
-- Co-founder of a company offering web design, SEO, and Google Ads services in Canada
-- Experienced mentor and facilitator in product development, focusing on code reviews and Agile practices to ensure quality and continuous improvement
-- I always enjoy helping others learn while continuously learning myself
-
-![bg right:35% w:350](./images/01_niyaz.png)
+![bg right:40% w:350](./images/statsgene1.png)
 
 ---
 
