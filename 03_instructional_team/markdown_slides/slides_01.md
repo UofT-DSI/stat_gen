@@ -147,18 +147,20 @@ For live coding:
 
 ---
 
-# SQL Fundamentals
+![bg right:35% w:350](./images/human_genome.png)
 
-- SQL: Structured Query Language
-  - Pronounced as either S.Q.L. (ess-cue-ell) or “sequel”
-- SQL is a _query_ language rather than a programming language
-  - Querying is closer to telling a computer *what you want*, rather than *what it has to do*
-  - SQL code is often less reproducible than other programming languages because it's domain specific
-      - Some SQL code, especially more advanced procedural code, is reproducible within the same flavour
-  - SQL's domain is databases and is based on set theory
+ ##### K-nearest neighbors (KNN)
 
-
+- KNN finds the "nearest" or "most similar" observations in the training set to predict a new observation's label.
+- "Closest" can be measured by calculating the straight-line between points, known as distance.
+- K is a predefined number of neighbors considered for classification.
+![bg right:50% w:600](./images/KNN_Nearest.png)
 ---
+
+To classify a new observation with K-nearest neighbors, follow these steps:
+1. Determine the nearest observation to the new observation from the training set.
+2. Identify the K observations that are closest.
+3. Classify the new observation based on the most common class among these neighbors.
 
 # SQL Fundamentals
 
