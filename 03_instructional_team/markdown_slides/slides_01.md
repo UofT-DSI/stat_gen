@@ -64,7 +64,10 @@ $ echo "Data Sciences Institute"
 
 # Course Content
 
+<!--
 - This course is an _Introduction_ to Statistical Genetics
+-->
+
 - At the end of the course, I hope you will:
   - Understand and apply core genetic principles
   - Conduct and interpret population genetic analyses
@@ -82,13 +85,10 @@ $ echo "Data Sciences Institute"
 
 - Two assignments, released on Monday of each week.
 - Broken into three sections:
-  - Section 1 focuses on database design
-  - Sections 2 and 3 on SQL writing
-- Each sections states about when you can start working on the answers
+  - Section 1 focuses on review of molecular genetics and basic genetic models
+  - Section 2 focuses on population genetics & consequences on genetic association studies
+  - Section 3 focuses on Genome-wide association studies
 - Review questions/answers in Office Hours course support
-- Database design sections are more time consuming
-  - Especially Assignment 2. **Do not put this off too much.**
-- ChatGPT probably won't help you much
 
 ---
 
@@ -115,7 +115,7 @@ $ echo "Data Sciences Institute"
 
 ---
 
-
+<!--
 # Quick Technical Check
 
 Make sure to install DB Browser for SQLite by our next session.
@@ -129,25 +129,21 @@ For live coding:
 
 ---
 
-
 # **Install Issues?**
 
 **If yes, please message your course support**
 
 ---
+-->
 
 # Introduction:
 
 ## Welcome
 
-## $\rightarrow$ **What is SQL?**
+## $\rightarrow$ **What is Statistical Genetics?**
 
-## Data Modelling
-
-
----
-
-# What is SQL? / SQL
+- Statistical genetics is an interdisciplinary field at the interface between statistics and genetics and is concerned with the development of statistical methods for problems in genetics.
+- Genetics is a subfield of biology concerned with the study of heredity (transmission of genetic material from parents to offspring) and genetic variation.
 
 ---
 
