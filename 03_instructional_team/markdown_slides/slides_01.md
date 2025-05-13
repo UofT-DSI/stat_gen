@@ -242,7 +242,7 @@ regulate exons.
 
 ## Mutations give rise to genetic variants
 
-![bg right:35% w:350](./images/mutation1.png)
+![bg right:20% w:350](./images/mutation1.png)
 
 ---
 
@@ -252,7 +252,7 @@ regulate exons.
   - Appear about every 300 base pairs.
   - ≈ 10 million SNPs.
 
-![bg right:35% w:350](./images/sno1.png)
+![bg right:20% w:350](./images/sno1.png)
 
 ---
 
