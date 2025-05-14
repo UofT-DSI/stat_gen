@@ -16,7 +16,7 @@ $ echo "Data Sciences Institute"
 
 ## $\rightarrow$ **What is Statistical Genetics and Genomics?**
 
-![bg right:35% w:800](./images/statgenes1.png)
+![bg right:35% w:700](./images/statgenes1.png)
 
 <p align="center" style="font-size:14px;">
   <strong>Big Data:</strong> <em>n &gt; 10<sup>3</sup>, p &gt; 10<sup>6</sup></em> (high-level processed data in GB and ‘raw data’ in TB) and<br>
@@ -109,10 +109,6 @@ $ echo "Data Sciences Institute"
 
 - Statistical genetics is an interdisciplinary field at the interface between statistics and genetics and is concerned with the development of statistical methods for problems in genetics.
 - Genetics is a subfield of biology concerned with the study of heredity (transmission of genetic material from parents to offspring) and genetic variation.
-
----
-
-![bg right:35% w:900](./images/human_genome.png)
 
 ---
 
