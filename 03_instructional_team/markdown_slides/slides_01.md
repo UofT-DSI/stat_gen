@@ -14,7 +14,7 @@ $ echo "Data Sciences Institute"
 
 # Introduction
 
-## $\rightarrow$ **What is Statistical Genetics and Genomics?**
+## **What is Statistical Genetics and Genomics?**
 
 ![bg right:80% w:350](./images/statsgene1.png)
 
@@ -53,10 +53,6 @@ $ echo "Data Sciences Institute"
 - All in-class code
 - Assignment details and rubrics
 - Policies, due dates, etc
-
----
-
-# 🚨 It is crucial you visit the repo throughout the course, as I may make minor changes and push new content.
 
 ---
 
@@ -109,7 +105,7 @@ $ echo "Data Sciences Institute"
 
 ---
 
-# What is Statistical Genetics?**
+# What is Statistical Genetics?
 
 - Statistical genetics is an interdisciplinary field at the interface between statistics and genetics and is concerned with the development of statistical methods for problems in genetics.
 - Genetics is a subfield of biology concerned with the study of heredity (transmission of genetic material from parents to offspring) and genetic variation.
@@ -124,8 +120,8 @@ $ echo "Data Sciences Institute"
 
 - 23 pairs of chromosomes: 22 homologous pairs (Autosomes) and 1 pair of sex chromosomes (XX female, XY male).
 - Where genetic material is stored and in the nucleus of every cell.
+- Numbered in order of decreasing length from 1 to 22.
 - Karyotype is a microcopic examination of choromosme size and banding patterns.
-- $\rightarrow$ allows medical laboratories to identify genetic diseases.
 ![bg right:50% w:600](./images/chr.png)
 ---
 
