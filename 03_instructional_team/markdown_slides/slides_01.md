@@ -16,7 +16,7 @@ $ echo "Data Sciences Institute"
 
 ## $\rightarrow$ **What is Statistical Genetics and Genomics?**
 
-![bg right:35% w:500](./images/statgenes1.png)
+![bg right:35% w:800](./images/statgenes1.png)
 
 <p align="center" style="font-size:14px;">
   <strong>Big Data:</strong> <em>n &gt; 10<sup>3</sup>, p &gt; 10<sup>6</sup></em> (high-level processed data in GB and ‘raw data’ in TB) and<br>
@@ -112,7 +112,7 @@ $ echo "Data Sciences Institute"
 
 ---
 
-![bg right:50% w:1200](./images/human_genome.png)
+![bg right:35% w:900](./images/human_genome.png)
 
 ---
 
@@ -161,11 +161,9 @@ Might add an additional slides on double helix Structure coding
 - Gene sizes vary from about 1K DNA base pairs to more than 1 million bp.
 - Consists of several coding segments (Exons), separated by non-coding sequences (Introns)
 - Introns do not code for specific proteins, BUT, they are not junk and may regulate exons.
-![bg right:35% w:500](./images/gene2.png)
+![bg right:35% w:400](./images/gene2.png)
 
 ---
-
-<!--
 # Genetic Markers
 
 ## Polymorphism
@@ -175,7 +173,6 @@ Might add an additional slides on double helix Structure coding
   
 ## Alleles
 - The different versions (or "states") of a polymorphism are called alleles.
--->
 
 ---
 
@@ -184,8 +181,6 @@ Might add an additional slides on double helix Structure coding
 - Bands on chromosomes are like Cities and Towns
 - Genes are like Streets
 - Positions in genes are like individual houses
-
-
   
 - How do we find the right address?
 
