@@ -111,7 +111,7 @@ $ echo "Data Sciences Institute"
 - Genetics is a subfield of biology concerned with the study of heredity (transmission of genetic material from parents to offspring) and genetic variation.
 
 ---
-![bg](./images/human_genome.png)
+![bg right:80% w:500](./images/statsgenes1.png)
 ---
 
  # Chromosomes 
