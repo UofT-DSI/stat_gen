@@ -151,10 +151,6 @@ Might add an additional slides on double helix Structure coding
 ----
 -->
 
-![bg right:35% w:350](./images/gene1.png)
- 
----
-
 # Human Genome
 - 3 billion nucleotides (A,C,G,T) in the whole human genome.
   – Paired, double helix
@@ -246,7 +242,7 @@ regulate exons.
   - Appear about every 300 base pairs.
   - ≈ 10 million SNPs.
 
-![bg right:20% w:350](./images/snp1.jpg)
+![bg right:20% w:350](./images/SNP1.jpg)
 
 ---
 
