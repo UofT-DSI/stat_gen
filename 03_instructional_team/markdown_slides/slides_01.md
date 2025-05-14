@@ -160,17 +160,6 @@ Might add an additional slides on double helix Structure coding
 ![bg right:35% w:400](./images/gene2.png)
 
 ---
-# Genetic Markers
-
-## Polymorphism
-- A polymorphism is a part of DNA that can **differ between individuals**.
-- These variations come from **mutations** that happened over long periods of human history.
-
-  
-## Alleles
-- The different versions (or "states") of a polymorphism are called alleles.
-
----
 
 ## Finding a gene is like finding the correct address of a house in Canada
 - Chromosomes are like Provinces
@@ -181,6 +170,21 @@ Might add an additional slides on double helix Structure coding
 - How do we find the right address?
 
 ---
+# Genetic Markers
+
+## Polymorphism
+- A polymorphism is a part of DNA that can **differ between individuals**.
+- These variations come from **mutations** that happened over long periods of human history.
+
+  
+## Alleles
+- The different versions (or "states") of a polymorphism are called alleles.
+  
+
+- In statistical term: a polymorphism is a random variable and an allele is one of the outcomes in the sample space.
+
+---
+
 
 # Mutations 
 
