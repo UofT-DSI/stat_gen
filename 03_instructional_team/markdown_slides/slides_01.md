@@ -16,7 +16,7 @@ $ echo "Data Sciences Institute"
 
 ## $\rightarrow$ **What is Statistical Genetics and Genomics?**
 
-![bg right:50% w:350](./images/statgenes1.png)
+![bg right:35% w:500](./images/statgenes1.png)
 
 <p align="center" style="font-size:14px;">
   <strong>Big Data:</strong> <em>n &gt; 10<sup>3</sup>, p &gt; 10<sup>6</sup></em> (high-level processed data in GB and ‘raw data’ in TB) and<br>
@@ -112,7 +112,7 @@ $ echo "Data Sciences Institute"
 
 ---
 
-![bg right:80% w:600](./images/human_genome.png)
+![bg right:50% w:1200](./images/human_genome.png)
 
 ---
 
@@ -122,7 +122,7 @@ $ echo "Data Sciences Institute"
 - Where genetic material is stored and in the nucleus of every cell.
 - Numbered in order of decreasing length from 1 to 22.
 - Karyotype is a microcopic examination of choromosme size and banding patterns.
-![bg right:50% w:350](./images/chr.png)
+![bg right:35% w:400](./images/chr.png)
 ---
 
  # DeoxyriboNucleic Acid (DNA) 
@@ -134,7 +134,7 @@ pairs: ATGC.
 - ‘Size’ of the genome: ≈ 3 billions of DNA
 base pairs
 - A-T and G-C matching: information on one strand is sufficient.
-![bg right:35% w:400](./images/DNA.png)
+![bg right:35% w:500](./images/DNA.png)
 
 ---
 <!--
@@ -161,7 +161,7 @@ Might add an additional slides on double helix Structure coding
 - Gene sizes vary from about 1K DNA base pairs to more than 1 million bp.
 - Consists of several coding segments (Exons), separated by non-coding sequences (Introns)
 - Introns do not code for specific proteins, BUT, they are not junk and may regulate exons.
-![bg right:35% w:400](./images/gene2.png)
+![bg right:35% w:500](./images/gene2.png)
 
 ---
 
@@ -216,8 +216,6 @@ Might add an additional slides on double helix Structure coding
 - Sometimes harmful:
   - May cause proteins to malfunction.
   - cells rely on the proteins may not function properly.
-
-![bg right:35% w:400](./images/mutation1.png)
 
 ---
 
