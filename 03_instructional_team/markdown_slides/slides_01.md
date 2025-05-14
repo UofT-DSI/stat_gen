@@ -14,8 +14,6 @@ $ echo "Data Sciences Institute"
 
 # Introduction:
 
-## $\rightarrow$ **Welcome**
-
 ## What is Statistical Genetics?
 
 ![bg right:35% w:350](./images/statsgene1.png)
@@ -123,10 +121,6 @@ $ echo "Data Sciences Institute"
 ---
 
 ![bg right:35% w:350](./images/human_genome.png)
-
----
-
-![bg right:35% w:350](./images/human_genome2.png)
 
 ---
 
@@ -252,7 +246,7 @@ regulate exons.
   - Appear about every 300 base pairs.
   - ≈ 10 million SNPs.
 
-![bg right:20% w:350](./images/sno1.png)
+![bg right:20% w:350](./images/snp1.jpg)
 
 ---
 
