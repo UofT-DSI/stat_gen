@@ -16,7 +16,7 @@ $ echo "Data Sciences Institute"
 
 ## $\rightarrow$ **What is Statistical Genetics and Genomics?**
 
-![bg right:35% w:350](./images/statgenes1.png)
+![bg right:50% w:350](./images/statgenes1.png)
 
 <p align="center" style="font-size:14px;">
   <strong>Big Data:</strong> <em>n &gt; 10<sup>3</sup>, p &gt; 10<sup>6</sup></em> (high-level processed data in GB and ‘raw data’ in TB) and<br>
@@ -111,7 +111,7 @@ $ echo "Data Sciences Institute"
 - Genetics is a subfield of biology concerned with the study of heredity (transmission of genetic material from parents to offspring) and genetic variation.
 
 ---
-![bg right:80% w:500](./images/statsgenes1.png)
+![bg right:80% w:600](./images/human_genome.png)
 ---
 
  # Chromosomes 
@@ -120,7 +120,7 @@ $ echo "Data Sciences Institute"
 - Where genetic material is stored and in the nucleus of every cell.
 - Numbered in order of decreasing length from 1 to 22.
 - Karyotype is a microcopic examination of choromosme size and banding patterns.
-![bg right:50% w:600](./images/chr.png)
+![bg right:50% w:350](./images/chr.png)
 ---
 
  # DeoxyriboNucleic Acid (DNA) 
@@ -132,7 +132,7 @@ pairs: ATGC.
 - ‘Size’ of the genome: ≈ 3 billions of DNA
 base pairs
 - A-T and G-C matching: information on one strand is sufficient.
-![bg right:35% w:600](./images/DNA.png)
+![bg right:35% w:350](./images/DNA.png)
 
 ---
 <!--
@@ -154,13 +154,12 @@ Might add an additional slides on double helix Structure coding
 ---
 
 # Genes 
-- A gene is an ordered sequence of nucleotides located in a particular position on a particular chromosome that encodes a specific functional product (a protein or
-RNA molecule).
+- A gene is an ordered sequence of nucleotides located in a particular position on a particular chromosome that encodes a specific functional product (a protein or RNA molecule).
 - About 20,000 - 30,000 genes throughout the genome.
 - Gene sizes vary from about 1K DNA base pairs to more than 1 million bp.
 - Consists of several coding segments (Exons), separated by non-coding sequences (Introns)
 - Introns do not code for specific proteins, BUT, they are not junk and may regulate exons.
-![bg right:35% w:350](./images/gene2.png)
+![bg right:35% w:400](./images/gene2.png)
 
 ---
 
@@ -216,7 +215,7 @@ RNA molecule).
   - May cause proteins to malfunction.
   - cells rely on the proteins may not function properly.
 
-![bg right:50% w:350](./images/mutation1.png)
+![bg right:35% w:400](./images/mutation1.png)
 
 ---
 
@@ -226,7 +225,7 @@ RNA molecule).
   - Appear about every 300 base pairs.
   - ≈ 10 million SNPs.
 
-![bg right:50% w:350](./images/SNP1.jpg)
+![bg right:35% w:400](./images/SNP1.jpg)
 
 ---
 
