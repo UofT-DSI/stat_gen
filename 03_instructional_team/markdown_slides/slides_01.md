@@ -16,7 +16,7 @@ $ echo "Data Sciences Institute"
 
 ## **What is Statistical Genetics and Genomics?**
 
-![bg right:80% w:350](./images/statsgene1.png)
+![bg right:35% w:350](./images/statsgene1.png)
 
 <p align="center" style="font-size:14px;">
   <strong>Big Data:</strong> <em>n &gt; 10<sup>3</sup>, p &gt; 10<sup>6</sup></em> (high-level processed data in GB and ‘raw data’ in TB) and<br>
@@ -111,9 +111,7 @@ $ echo "Data Sciences Institute"
 - Genetics is a subfield of biology concerned with the study of heredity (transmission of genetic material from parents to offspring) and genetic variation.
 
 ---
-
-![bg right:100% w:350](./images/human_genome.png)
-
+![bg](./images/human_genome.png)
 ---
 
  # Chromosomes 
@@ -134,7 +132,7 @@ pairs: ATGC.
 - ‘Size’ of the genome: ≈ 3 billions of DNA
 base pairs
 - A-T and G-C matching: information on one strand is sufficient.
-![bg right:50% w:600](./images/DNA.png)
+![bg right:35% w:600](./images/DNA.png)
 
 ---
 <!--
@@ -162,7 +160,7 @@ RNA molecule).
 - Gene sizes vary from about 1K DNA base pairs to more than 1 million bp.
 - Consists of several coding segments (Exons), separated by non-coding sequences (Introns)
 - Introns do not code for specific proteins, BUT, they are not junk and may regulate exons.
-![bg right:50% w:350](./images/gene2.png)
+![bg right:35% w:350](./images/gene2.png)
 
 ---
 
@@ -217,10 +215,6 @@ RNA molecule).
 - Sometimes harmful:
   - May cause proteins to malfunction.
   - cells rely on the proteins may not function properly.
-
----
-
-## Mutations give rise to genetic variants
 
 ![bg right:50% w:350](./images/mutation1.png)
 
