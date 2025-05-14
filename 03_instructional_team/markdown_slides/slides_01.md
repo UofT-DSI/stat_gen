@@ -111,7 +111,9 @@ $ echo "Data Sciences Institute"
 - Genetics is a subfield of biology concerned with the study of heredity (transmission of genetic material from parents to offspring) and genetic variation.
 
 ---
+
 ![bg right:80% w:600](./images/human_genome.png)
+
 ---
 
  # Chromosomes 
@@ -132,7 +134,7 @@ pairs: ATGC.
 - ‘Size’ of the genome: ≈ 3 billions of DNA
 base pairs
 - A-T and G-C matching: information on one strand is sufficient.
-![bg right:35% w:350](./images/DNA.png)
+![bg right:35% w:400](./images/DNA.png)
 
 ---
 <!--
