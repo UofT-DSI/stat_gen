@@ -16,7 +16,7 @@ $ echo "Data Sciences Institute"
 
 ## What is Statistical Genetics?
 
-![bg right:35% w:350](./images/statsgene1.png)
+![bg right:100% w:350](./images/statsgene1.png)
 
 <p align="center" style="font-size:14px;">
   <strong>Big Data:</strong> <em>n &gt; 10<sup>3</sup>, p &gt; 10<sup>6</sup></em> (high-level processed data in GB and ‘raw data’ in TB) and<br>
@@ -172,7 +172,7 @@ RNA molecule).
 separated by non-coding sequences (Introns)
 - Introns do not code for specific proteins, BUT, they are not junk and may
 regulate exons.
-![bg right:35% w:350](./images/gene2.png)
+![bg right:50% w:350](./images/gene2.png)
 
 ---
 
@@ -232,7 +232,7 @@ regulate exons.
 
 ## Mutations give rise to genetic variants
 
-![bg right:20% w:350](./images/mutation1.png)
+![bg right:100% w:350](./images/mutation1.png)
 
 ---
 
@@ -242,7 +242,7 @@ regulate exons.
   - Appear about every 300 base pairs.
   - ≈ 10 million SNPs.
 
-![bg right:20% w:350](./images/SNP1.jpg)
+![bg right:50% w:350](./images/SNP1.jpg)
 
 ---
 
