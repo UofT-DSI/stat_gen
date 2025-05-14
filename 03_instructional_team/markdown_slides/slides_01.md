@@ -14,9 +14,9 @@ $ echo "Data Sciences Institute"
 
 # Introduction
 
-## **What is Statistical Genetics and Genomics?**
+## $\rightarrow$ **What is Statistical Genetics and Genomics?**
 
-![bg right:35% w:350](./images/statsgene1.png)
+![bg right:35% w:350](./images/statsgenes1.png)
 
 <p align="center" style="font-size:14px;">
   <strong>Big Data:</strong> <em>n &gt; 10<sup>3</sup>, p &gt; 10<sup>6</sup></em> (high-level processed data in GB and ‘raw data’ in TB) and<br>
