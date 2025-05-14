@@ -4,7 +4,7 @@ theme: xaringan-themer
 _class: invert
 paginate: true
 ---
-# Introduction to Statistical Genetics
+# Fundamentals of Statistical Genetics
 
 ```
 $ echo "Data Sciences Institute"
@@ -14,12 +14,9 @@ $ echo "Data Sciences Institute"
 
 # Introduction
 
-## $\rightarrow$ **What is Statistical Genetics?**
+## $\rightarrow$ **What is Statistical Genetics and Genomics?**
 
-- Statistical genetics is an interdisciplinary field at the interface between statistics and genetics and is concerned with the development of statistical methods for problems in genetics.
-- Genetics is a subfield of biology concerned with the study of heredity (transmission of genetic material from parents to offspring) and genetic variation.
-
-![bg right:50% w:350](./images/statsgene1.png)
+![bg right:80% w:350](./images/statsgene1.png)
 
 <p align="center" style="font-size:14px;">
   <strong>Big Data:</strong> <em>n &gt; 10<sup>3</sup>, p &gt; 10<sup>6</sup></em> (high-level processed data in GB and ‘raw data’ in TB) and<br>
@@ -112,11 +109,7 @@ $ echo "Data Sciences Institute"
 
 ---
 
-# Introduction:
-
-## Welcome
-
-## $\rightarrow$ **What is Statistical Genetics?**
+# What is Statistical Genetics?**
 
 - Statistical genetics is an interdisciplinary field at the interface between statistics and genetics and is concerned with the development of statistical methods for problems in genetics.
 - Genetics is a subfield of biology concerned with the study of heredity (transmission of genetic material from parents to offspring) and genetic variation.
