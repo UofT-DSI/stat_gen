@@ -16,7 +16,7 @@ $ echo "Data Sciences Institute"
 
 ## What is Statistical Genetics?
 
-![bg right:100% w:350](./images/statsgene1.png)
+![bg right:80% w:350](./images/statsgene1.png)
 
 <p align="center" style="font-size:14px;">
   <strong>Big Data:</strong> <em>n &gt; 10<sup>3</sup>, p &gt; 10<sup>6</sup></em> (high-level processed data in GB and ‘raw data’ in TB) and<br>
@@ -120,7 +120,7 @@ $ echo "Data Sciences Institute"
 
 ---
 
-![bg right:35% w:350](./images/human_genome.png)
+![bg right:100% w:350](./images/human_genome.png)
 
 ---
 
@@ -166,12 +166,10 @@ Might add an additional slides on double helix Structure coding
 # Genes 
 - A gene is an ordered sequence of nucleotides located in a particular position on a particular chromosome that encodes a specific functional product (a protein or
 RNA molecule).
-- About 20,000 - 30,000 genes (evolving estimate) throughout the genome.
+- About 20,000 - 30,000 genes throughout the genome.
 - Gene sizes vary from about 1K DNA base pairs to more than 1 million bp.
-- A gene is a segment of DNA consists of several coding segments (Exons),
-separated by non-coding sequences (Introns)
-- Introns do not code for specific proteins, BUT, they are not junk and may
-regulate exons.
+- Consists of several coding segments (Exons), separated by non-coding sequences (Introns)
+- Introns do not code for specific proteins, BUT, they are not junk and may regulate exons.
 ![bg right:50% w:350](./images/gene2.png)
 
 ---
@@ -232,7 +230,7 @@ regulate exons.
 
 ## Mutations give rise to genetic variants
 
-![bg right:100% w:350](./images/mutation1.png)
+![bg right:50% w:350](./images/mutation1.png)
 
 ---
 
