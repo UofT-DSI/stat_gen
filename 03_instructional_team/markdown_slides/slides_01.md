@@ -178,19 +178,27 @@ How do we find the right address?
 # Mutations 
 
 - Mutations are **changes in DNA**.
-  - Small: change one DNA letter1 DNA base pair
-  - Large: affect a big chunk or a whole chromosome
+```
+- Reference Sequence:
+  ATG TCT GGA TAC CCG AAT GTC
     
- 
-- Different types of mutations:
-  - **Substitution**: say TCT replaced by TCA.
-  - **Deletion**: one base pair or a segment missing.
-  - **Insertion**: adding an extra segment.
-  - **Translocation**: segment from another region.
+- **Substitution**:
+  ATG TCA GGA TAC CCG AAT GTC
+        ↑    
 
-- Reshuffling or recombination of chromosomes during reproduction also introduces genetic variety
-  - e.g., chromosomes exchange pieces during meiosis.
-  
+- **Deletion**:
+  ATG TCT      TAC CCG AAT GTC
+          ↑
+
+- **Insertion**   
+  ATG TCT GTT AGC GGA TAC CCG AAT GTC
+          ↑
+
+- **translocation**
+  TGA CTA ATG TCT GGA TAC CCG AAT GTC
+  ↑ (segment from another region)
+
+```  
 ---
 
 # Effect of Mutations 
