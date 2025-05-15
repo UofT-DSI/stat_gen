@@ -112,7 +112,7 @@ $ echo "Data Sciences Institute"
 
 ---
 
-![bg right:100% w:1200](./images/human_genome.png)
+![bg right:100% w:1000](./images/human_genome.png)
 
 ---
 
@@ -171,7 +171,7 @@ Might add an additional slides on double helix Structure coding
 - Genes are like Streets
 - Positions in genes are like individual houses
   
-- How do we find the right address?
+How do we find the right address?
 
 ---
 # Genetic Markers
