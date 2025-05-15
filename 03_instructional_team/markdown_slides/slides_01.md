@@ -112,6 +112,10 @@ $ echo "Data Sciences Institute"
 
 ---
 
+![bg right:100% w:1000](./images/statgenes1.png)
+
+---
+
  # Chromosomes 
 
 - 23 pairs of chromosomes: 22 homologous pairs (Autosomes) and 1 pair of sex chromosomes (XX female, XY male).
