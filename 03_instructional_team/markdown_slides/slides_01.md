@@ -174,21 +174,6 @@ Might add an additional slides on double helix Structure coding
 How do we find the right address?
 
 ---
-# Genetic Markers
-
-## Polymorphism
-- A polymorphism is a part of DNA that can **differ between individuals**.
-- These variations come from **mutations** that happened over long periods of human history.
-
-  
-## Alleles
-- The different versions (or "states") of a polymorphism are called alleles.
-  
-
-- In statistical term: a polymorphism is a random variable and an allele is one of the outcomes in the sample space.
-
----
-
 
 # Mutations 
 
@@ -218,9 +203,23 @@ How do we find the right address?
 
 ---
 
-# Types of Genetic Variants
-- **(bi-Allelic) Single nucleotide polymorphism (SNP)**:
-  - simplest: just one base (A, T, C, or G) is different between people.
+
+# Genetic Markers/Polymorphism
+
+- A **polymorphism** is a part of DNA that can differ between individuals.
+- These variations come from mutations that happened over long periods of human history.
+- The different versions (or "states") of a polymorphism are called **alleles**.
+- In statistical term: a polymorphism is a random variable and an allele is one of the outcomes in the sample space.
+
+
+---
+
+# Types of Genetic Markers/Polymorphism
+  - A **(bi-Allelic) single nucleotide polymorphism (SNP)** is a type of genetic variation where a single nucleotide (A, C, G, or T) differs between individuals.
+  - An **allele** at a SNP refers to one of the possible nucleotide bases — A, C, G, or T.
+  - Most SNPs are bi-allelic, meaning the two alleles can be either G-C or A-T (matching).
+  - Could code them A (say for G-C) and a (for A-T).
+  - Simplest: just a one-base difference between individuals.
   - Appear about every 300 base pairs.
   - ≈ 10 million SNPs.
 
@@ -242,7 +241,7 @@ How do we find the right address?
 
 ## Alleles and Genotypes
 
-- **Genotype**: the two alleles at each chromosomal location (a prair of chormosome) for a given individual.
+**Genotype**: the two alleles at each chromosomal location (a prair of chormosome) for a given individual.
   
 - e.g. a marker with two alleles denoted as A and a has 3 possible (unordered)
 - genotype: AA, Aa/aA, aa.
@@ -250,7 +249,35 @@ How do we find the right address?
 - **Heterozygous** genotype: different allelic type (Aa/aA).
 
 ---
+# Recap
 
+- Human genomes and **paired** chromosomes
+- DNA and double helix structure (strand issue; not the same as paired chromosomes)
+- A complex language from a simple 4-letter (A-T, G-C) system.
+
+- Variations/Mutations
+  - polymorphisms/genetic markers ≡ discrete random variables
+  - alleles ≡ outcomes of a random variable
+  - **SNP** ≡ a r.v. with two outcomes
+  - Microsatellite ≡ a random variable with typically 3-30 outcomes
+    
+- **Genotype** data of a polymorphism/genetic marker: paired alleles (from the
+paired chromosomes.
+
+---
+
+## Characteristics of Genetic Markers
+
+**Population frequency**: genotype and allele frequencies
+- For a given population, different genotypes and alleles 
+
+
+---
+
+# What's next
+- Some Basic Concepts from Population Genetics
+- Review of Some Basic Concepts from Statistical inference
+---
 
 ### What questions do you have about anything from today?
 
