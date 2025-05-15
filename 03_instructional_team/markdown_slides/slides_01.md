@@ -112,7 +112,7 @@ $ echo "Data Sciences Institute"
 
 ---
 
-![bg right:100% w:1000](./images/statgenes1.png)
+![bg right:100% w:1000](./images/human_genome.png)
 
 ---
 
