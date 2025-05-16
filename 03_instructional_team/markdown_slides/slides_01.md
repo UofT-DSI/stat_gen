@@ -178,9 +178,9 @@ How do we find the right address?
 # Mutations 
 
 - Mutations are **changes in DNA**.
-![bg right:35% w:600](./images/mutation1.png)
+![bg right:50% w:600](./images/mutation1.png)
 
---
+---
 
 # Effects of mutations 
 - Sometimes harmless:
