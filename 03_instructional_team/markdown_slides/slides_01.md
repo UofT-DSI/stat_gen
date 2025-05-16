@@ -178,16 +178,8 @@ How do we find the right address?
 # Mutations 
 
 - Mutations are **changes in DNA**.
-- Reference Sequence: ATG TCT GGA TAC CCG AAT GTC
+![bg right:100% w:500](./images/mutation1.png)
 
-- Substitution:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ATG TC**A** GGA TAC CCG AAT GTC
-- Deletion:
-  - ATG TCT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TAC CCG AAT GTC
-- Insertion:
-  ATG TCT **GTT AGC** GGA TAC CCG AAT GTC
-- Translocation
-  **TGA CTA** ATG TCT GGA TAC CCG AAT GTC
-  ↑ (segment from another region)
 ---
 
 # Effect of Mutations 
