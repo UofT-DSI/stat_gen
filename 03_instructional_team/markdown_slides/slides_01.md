@@ -180,9 +180,6 @@ How do we find the right address?
 - Mutations are **changes in DNA**.
 ![bg right:50% w:400](./images/mutation1.png)
 
----
-
-# Effect of Mutations 
 - Sometimes harmless:
   - e.g., TCT and TCA both code for the same amino acid (protein building block), so changing one to the other has no impact.
 
