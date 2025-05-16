@@ -157,10 +157,14 @@ Might add an additional slides on double helix Structure coding
 
 # Genes 
 - A gene is an ordered sequence of nucleotides located in a particular position on a particular chromosome that encodes a specific functional product (a protein or RNA molecule).
-- About 20,000 - 30,000 genes throughout the genome.
-- Gene sizes vary from about 1K DNA base pairs to more than 1 million bp.
 - Consists of several coding segments (Exons), separated by non-coding sequences (Introns)
 - Introns do not code for specific proteins, BUT, they are not junk and may regulate exons.
+![bg right:35% w:400](./images/gene2.png)
+
+---
+# Genes 
+- Gene sizes vary from about 1K DNA base pairs to more than 1 million bp.
+- About 20,000 - 30,000 genes throughout the genome.
 ![bg right:35% w:400](./images/gene2.png)
 
 ---
@@ -178,7 +182,7 @@ How do we find the right address?
 # Mutations 
 
 - Mutations are **changes in DNA**.
-![bg right:50% w:600](./images/mutation1.png)
+![bg right:50% w:500](./images/mutation1.png)
 
 ---
 
