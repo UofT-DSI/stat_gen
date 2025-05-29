@@ -126,7 +126,7 @@ $ echo "Data Sciences Institute"
 
 ---
 
-![bg right:100% w:1000](./images/human_genome.jpg)
+![bg right:100% w:1000](./images/human_genome.png)
 
 ---
  # DeoxyriboNucleic Acid (DNA) 
