@@ -43,7 +43,7 @@ There are three assignments.
 
 1. [Assignment 1](./02_activities/assignments/Assignment1.md)
 2. [Assignment 2](./02_activities/assignments/Assignment2.md)
-3. 1. [Assignment 3](./02_activities/assignments/Assignment3.md)
+3. [Assignment 3](./02_activities/assignments/Assignment3.md)
 
 ## Contacts
 
@@ -101,10 +101,6 @@ Feel free to use the following as resources:
 
 ### Videos
 - Introductory Genomics Videos: [BigBio YouTube Channel – Genomics Playlists](https://www.youtube.com/c/BigBiovideos/playlists?app=desktop)
-
-
-- Other useful resources beyond the scope of this course:
-  - Biomedical Data Resource Guide: [StatsUpAI – Curated Biomedical Datasets](https://statsupai.org/datasets.html)
 
 
 ## Folder Structure
