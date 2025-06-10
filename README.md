@@ -22,23 +22,28 @@ This course provides students with the knowledge foundations necessary to conduc
 By the end of the module, participants will be able to:
 
 **Week 1:**
-
-* Understand basic molecular genetics concepts and common genetic models.
-* Distinguish between Mendelian and complex trait inheritance.
-* Understand the principles of population genetics, including allele frequencies, genetic drift, and Hardy-Weinberg equilibrium.
+* Understand basic concepts in molecular genetics and common genetic models.
+* Distinguish between Mendelian and complex trait inheritance, and grasp general principles of genetic inheritance.
+* Learn how genotype data is stored and accessed (e.g., in PLINK), and how to prepare it for downstream analyses such as GWAS and quality control.
 
 **Week 2:**
-* Understand key designs and statistical models used in genetic association studies, including case-control and regression-based approaches.
-* Learn how to implement genome-wide association studies (GWAS), including key quality control steps and software tools.
+* Understand fundamental principles of population genetics, including allele frequencies, genetic drift, and Hardy-Weinberg equilibrium.
+* Learn about trait aggregation, heritability, and segregation analysis.
+* Understand key study designs and statistical models used in genetic association studies, including case-control and regression-based approaches.
 
+**Week 3:**
+* Learn how to perform genome-wide association studies (GWAS), including essential quality control procedures, popular software tools, genotype imputation, and multiple testing correction.
+* Understand methods for adjusting for population stratification and conducting meta-analyses in GWAS.
+  
 ## Assignments
 
 Participants should review the [Assignment Submission Guide](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md) for instructions on how to complete assignments in this module.
 
-There are two assignments.
+There are three assignments.
 
 1. [Assignment 1](./02_activities/assignments/Assignment1.md)
-1. [Assignment 2](./02_activities/assignments/Assignment2.md)
+2. [Assignment 2](./02_activities/assignments/Assignment2.md)
+3. 1. [Assignment 3](./02_activities/assignments/Assignment3.md)
 
 ## Contacts
 
@@ -72,30 +77,35 @@ Each session will consist of slides to introduce topics, live coding to demonstr
 
 * Week 1 will focus on review of molecular genetics and basic genetic models
 * Week 2 will focus on population genetics
-* Week 3 will focus on association testing
+* Week 3 will focus on genome-wide association studies
 
 ## Requirements
-* Participants are expected to have completed Shell, git nd R learning modules.
-* Participants are encouraged to ask questions and collaborate with others to enhance learning.
-* Participants must have a computer and an internet connection to participate in online activities.
-* Participants must not use generative AI such as ChatGPT to generate code to complete assignments. It should be used as a supportive tool to seek out answers to questions you may have.
-* We expect Participants to have completed the instructions mentioned in the [onboarding repo](https://github.com/UofT-DSI/onboarding/).
-* We encourage participants to default to having their camera on at all times, and turning the camera off only as needed. This will greatly enhance the learning experience for all participants and provides real-time feedback for the instructional team. 
+* Participants are expected to have completed the Shell and R learning modules prior to the course.
+* No formal background in genetics is assumed. Basic concepts in molecular genetics will be introduced during the class.
+* Participants should be familiar with key concepts in statistical inference, including:
+  -  Elementary probability and statistical methods
+  -  Distributions of basic random variables (e.g., binomial, normal)
+  -  Likelihood-based methods, including estimation and hypothesis testing
+  -  Basic regression techniques (e.g., linear and logistic regression)
+* Participants are encouraged to ask questions and collaborate with others to enhance the learning experience.
+* A computer and internet connection are required to participate in all online activities.
+* Generative AI tools (e.g., ChatGPT) must not be used to generate code for assignments. However, they may be used as supportive tools to seek clarification or find answers to questions.
+* Participants are expected to have completed the setup instructions provided in the onboarding repository.
+* We encourage participants to keep their cameras on during sessions, turning them off only when necessary. This helps foster a more engaging and interactive learning environment and provides real-time feedback to the instructional team.
 
 ## Resources
 Feel free to use the following as resources:
 
-### Documents
-<!--
-- [Cheatsheet](https://www.sqlitetutorial.net/sqlite-cheat-sheet/)
-- [W3Schools Tutorial](https://www.w3schools.blog/sqlite-tutorial)
--->
+### Textbook
+- The Fundamentals of Modern Statistical Genetics (Nan Laird & Christoph Lange).
 
 ### Videos
-<!--
-- [What is SQLite?](https://www.youtube.com/watch?v=p2tOmltUh34)
-- [SQLite Playlist](https://www.youtube.com/playlist?list=PLWENznQwkAoxww-cDEfIJ-uuPDfFwbeiJ)
--->
+- Introductory Genomics Videos: [BigBio YouTube Channel – Genomics Playlists](https://www.youtube.com/c/BigBiovideos/playlists?app=desktop)
+
+
+- Other useful resources beyond the scope of this course:
+  - Biomedical Data Resource Guide: [StatsUpAI – Curated Biomedical Datasets](https://statsupai.org/datasets.html)
+
 
 ## Folder Structure
 
